@@ -12,7 +12,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** (3º período), com foco em criar soluções completas — do banco de dados à interface do usuário. Estou em busca da minha primeira oportunidade profissional para aplicar meus conhecimentos, crescer como desenvolvedor e contribuir com projetos reais.
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — 3º Período
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — 4º Período
 - 🎯 **Objetivo:** Estágio ou primeiro emprego na área de desenvolvimento de software
 - 💡 **Interesse:** Front-end, Back-end e Mobile
 - 📍 **Disponibilidade:** Imediata
@@ -42,6 +42,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (3º período), com 
 |--------|-----------|------------|
 | [quiz-back-end](https://github.com/robsondev98/quiz-back-end) | Mini quiz de perguntas e respostas com sessões PHP | PHP, CSS |
 | [venda-de-carro](https://github.com/robsondev98/venda-de-carro) | Interface de venda de veículos | HTML, CSS |
+| [Foco-Total](https://github.com/robsondev98/foco-total) | | Aplicativo Mobile de bem-estar digital | React Native |
+
 
 ---
 
