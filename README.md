@@ -42,7 +42,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (3º período), com 
 |--------|-----------|------------|
 | [quiz-back-end](https://github.com/robsondev98/quiz-back-end) | Mini quiz de perguntas e respostas com sessões PHP | PHP, CSS |
 | [venda-de-carro](https://github.com/robsondev98/venda-de-carro) | Interface de venda de veículos | HTML, CSS |
-| [Foco-Total](https://github.com/robsondev98/foco-total) | | Aplicativo Mobile de bem-estar digital | React Native |
+| [Foco-Total](https://github.com/robsondev98/foco-total) | Aplicativo Mobile de bem-estar digital | React Native |
 
 
 ---
